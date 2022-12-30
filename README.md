@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fullstack404
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end Technologies
+- 🌱 I’m currently learning Python and it's framework.
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me Email address - fullstackdeveloper404@gmail.com
 
