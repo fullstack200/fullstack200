@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fullstack200
+- 👋 Hi, I'm Fahad Ahmed
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python and Django framework.
 - 💞️ I’m looking to collaborate on None
