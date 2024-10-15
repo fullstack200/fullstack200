@@ -1,6 +1,6 @@
 # Hi there, I'm Fahad Ahmed! 👋
 
-Welcome to my GitHub profile! I am a passionate Software Engineer with a focus on Web Development and Cloud Technology. My goal is to create innovative and efficient solutions that make a positive impact.
+Welcome to my GitHub profile! I am a passionate Software Engineer with a focus on Web Development and Cloud Technology. I'm a AWS Certified Developer Associate and an AWS Certified Devops Engineer Professional. My goal is to create innovative and efficient solutions that make a positive impact.
 
 ## 🔧 Skills
 - **Languages:** Python, JavaScript, HTML, CSS
